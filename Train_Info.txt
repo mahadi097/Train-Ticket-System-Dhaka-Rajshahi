@@ -1,0 +1,14 @@
+Dhaka Rajshahi Satourday Padma 3:00pm 100
+Dhaka Rajshahi Sunday Padma 3:00pm 100
+Dhaka Rajshahi Monday Padma 3:00pm 98
+Dhaka Rajshahi Tuesday Padma 3:00pm 100
+Dhaka Rajshahi Wednesday Padma 3:00pm 100
+Dhaka Rajshahi Thursday Padma 3:00pm 100
+Dhaka Rajshahi Friday Padma 3:00pm 100
+Rajshahi Dhaka Satourday Padma 7:00am 100
+Rajshahi Dhaka Sunday Padma 7:00am 100
+Rajshahi Dhaka Monday Padma 7:00am 100
+Rajshahi Dhaka Tuesday Padma 7:00am 100
+Rajshahi Dhaka Wednesday Padma 7:00am 100
+Rajshahi Dhaka Thursday Padma 7:00am 100
+Rajshahi Dhaka Friday Padma 7:00am 96
